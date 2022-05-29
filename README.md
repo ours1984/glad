@@ -1,7 +1,6 @@
 # glad
 
-![badge](https://img.shields.io/badge/-c++-yellow?style=flat&logo=c)
-![badge](https://img.shields.io/badge/-opengl-orij?style=flat&logo=opengl)
+![badge](https://img.shields.io/badge/-c++-yellow?style=flat&logo=c)![badge](https://img.shields.io/badge/-opengl-orij?style=flat&logo=opengl)
 [![license](https://img.shields.io/github/license/xiaoqide/glad.svg)](LICENSE)
 [![glad](https://img.shields.io/badge/glad-c++-brightgreen.svg?style=flat-square)](https://github.com/xiaoqide/opengl-note-code)
 
