@@ -35,6 +35,8 @@ git clone https://github.com/xiaoqide/glad.git
 
 扩展(Extensions)选中GL_ARB_point_sprite。都选择完之后，点击生成(Generate)按钮来生成库文件。
 
+文件生成地址
+
 <https://glad.dav1d.de/#profile=core&language=c&specification=gl&loader=on&api=gl%3D3.3&extensions=GL_ARB_point_sprite>
 
 ```c
