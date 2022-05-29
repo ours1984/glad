@@ -30,7 +30,13 @@ git clone https://github.com/xiaoqide/glad.git
 
 ## 使用
 
-打开GLAD的[在线服务](http://glad.dav1d.de/)，将语言(Language)设置为C/C++，在API选项中，选择3.3以上的OpenGL(gl)版本（我们将使用3.3版本，但更新的版本也能用）。之后将模式(Profile)设置为Core，并且保证选中了生成加载器(Generate a loader)选项。忽略扩展(Extensions)中的内容。都选择完之后，点击生成(Generate)按钮来生成库文件。
+打开GLAD的[在线服务](http://glad.dav1d.de/)，将语言(Language)设置为C/C++，在API选项中，选择3.3以上的OpenGL(gl)版本。
+
+之后将模式(Profile)设置为Core，并且保证选中了生成加载器(Generate a loader)选项。
+
+扩展(Extensions)选中GL_ARB_point_sprite。都选择完之后，点击生成(Generate)按钮来生成库文件。
+
+<https://glad.dav1d.de/#profile=core&language=c&specification=gl&loader=on&api=gl%3D3.3&extensions=GL_ARB_point_sprite>
 
 ```c
 struct gladGLversionStruct {
