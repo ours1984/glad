@@ -2,7 +2,7 @@
 
 ![badge](https://img.shields.io/badge/-c++-yellow?style=flat&logo=c)![badge](https://img.shields.io/badge/-opengl-orij?style=flat&logo=opengl)
 [![license](https://img.shields.io/github/license/xiaoqide/glad.svg)](LICENSE)
-[![glad](https://img.shields.io/badge/glad-c++-brightgreen.svg?style=flat-square)](https://github.com/xiaoqide/opengl-note-code)
+[![glad](https://img.shields.io/badge/glad-c++-brightgreen.svg?style=flat-square)](https://github.com/xiaoqide/note-code)
 
 GL/GLES/EGL/GLX/WGL C/C++ Loader generated based on the official specs
 
@@ -17,7 +17,7 @@ GL/GLES/EGL/GLX/WGL C/C++ Loader generated based on the official specs
 
 ## 背景
 
-为了项目的纯粹性,把项目[opengl-note-code](https://github.com/xiaoqide/opengl-note-code)的glad依赖单独列出一个仓库
+glad官方没有git仓库,所以再网页上针对特定版本导出c++的git仓库
 
 ## 安装
 
