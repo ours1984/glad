@@ -1,8 +1,8 @@
 # glad
 
 ![badge](https://img.shields.io/badge/-c++-yellow?style=flat&logo=c)![badge](https://img.shields.io/badge/-opengl-orij?style=flat&logo=opengl)
-[![license](https://img.shields.io/github/license/xiaoqide/glad.svg)](LICENSE)
-[![glad](https://img.shields.io/badge/glad-c++-brightgreen.svg?style=flat-square)](https://github.com/xiaoqide/note-code)
+[![license](https://img.shields.io/github/license/ours1984/glad.svg)](LICENSE)
+[![glad](https://img.shields.io/badge/glad-c++-brightgreen.svg?style=flat-square)](https://github.com/ours1984/note-code)
 
 GL/GLES/EGL/GLX/WGL C/C++ Loader generated based on the official specs
 
@@ -24,7 +24,7 @@ glad官方没有git仓库,所以再网页上针对特定版本导出c++的git仓
 直接git克隆就可以了.
 
 ```bash
-git clone https://github.com/xiaoqide/glad.git 
+git clone https://github.com/ours1984/glad.git 
 ```
 
 ## 使用
